@@ -1,0 +1,1 @@
+# Diario-de-Rede-Tema-C
