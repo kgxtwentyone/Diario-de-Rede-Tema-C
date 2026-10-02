@@ -17,7 +17,7 @@ O **Diário de Rede** é uma aplicação Android desenvolvida para monitorizar e
 * **Verificação em Tempo Real:** Identificação automática da conetividade (Wi-Fi, Dados Móveis ou Offline).
 * **Gestão de Notas:** Criação e listagem de registos de rede pelo utilizador.
 * **Timestamp Automático:** Atribuição automática de data e hora no momento de cada registo.
-* **Navegação Multiecrã:** Navegação entre ecran principal e ecran de detalhes/notas via Intents.
+* **Navegação Multiecrã:** Navegação entre ecra principal e ecra de detalhes/notas via Intents.
 
 ---
 
