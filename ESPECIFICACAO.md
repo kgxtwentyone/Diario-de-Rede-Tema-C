@@ -10,8 +10,8 @@ A aplicação tem como objetivo monitorizar em tempo real o estado da ligação 
 * **Histórico:** Apresentação das notas registadas numa lista.
 
 ## 3. Descrição das Activities e Navegação
-* **`MainActivity`:** Ecran principal que exibe o estado atual da rede (Wi-Fi / Dados Móveis / Offline) e a lista de notas registadas. Contém um botão para navegar para a criação de notas.
-* **`NoteActivity`:** Ecran secundário com formulário para introdução de texto da nova nota e botão para guardar.
+* **`MainActivity`:** Ecra principal que exibe o estado atual da rede (Wi-Fi / Dados Móveis / Offline) e a lista de notas registadas. Contém um botão para navegar para a criação de notas.
+* **`NoteActivity`:** Ecra secundário com formulário para introdução de texto da nova nota e botão para guardar.
 * **Navegação:** A transição entre a `MainActivity` e a `NoteActivity` é realizada através de `Intent` explícito.
 
 ## 4. Funcionalidade de Rede e Permissões
